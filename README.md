@@ -1,5 +1,4 @@
-# olympics-medal-analysis
-"A Python-based analysis of Olympic medal counts using Pandas, NumPy, and Matplotlib, featuring data cleaning, statistical insights, and visualizations in Google Colab."
+Author:Prajwal N
 # 🏅 Olympics Medal Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/olympics-analysis/blob/main/olympics_analysis.ipynb)

@@ -1,4 +1,4 @@
-Author:Prajwal N
+Author : Prajwal N
 # 🏅 Olympics Medal Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/olympics-analysis/blob/main/olympics_analysis.ipynb)

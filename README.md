@@ -44,7 +44,7 @@ The dataset is created directly in the notebook, but it is also saved as **olymp
 ## 📊 Visualizations
 
 ### **Total Medals by Country**
-![Total Medals](Total Medals.png)
+![Total Medals](Medal_Distribution.png)
 
 ### **Medal Distribution (Gold, Silver, Bronze)**
 ![Medal Distribution](Medal Distribution.png)
